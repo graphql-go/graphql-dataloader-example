@@ -1,6 +1,6 @@
 # graphql-dataloader-sample
 
-A sample project on how to use `https://github.com/graphql-go/graphql` with `https://github.com/graph-gophers/dataloader` to support batching to avoid n+1 queries.
+A sample project on how to use [github.com/graphql-go/graphql](https://github.com/graphql-go/graphql) with [github.com/graph-gophers/dataloader](https://github.com/graph-gophers/dataloader) to support batching to avoid n+1 queries.
 
 #### Getting Started
 
